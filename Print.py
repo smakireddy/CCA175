@@ -1,4 +1,4 @@
-
+#Ignore this file
 #read 4 , write 2 , execute 1 
 #owner , group , others 
 #7,6,4
